@@ -6,17 +6,17 @@ Giá nhà, căn hộ luôn là chủ đề nóng trong BĐS, cho nên project n�
 
 Project này chỉ lấy cụ thể nhà, căn hộ trong khu vực TP.HCM
 
-Các bước bọn mình làm trên project này:
+**Các bước bọn mình làm trên project này:**
 
-    Phần 1. Collecting Data bằng cách sử dụng Web Scrapping trên trang web batdongsan.vn
+- Phần 1. Collecting Data bằng cách sử dụng Web Scrapping trên trang web batdongsan.vn
 
-    Phần 2. Transforming Data - Chỉnh lại tên, giá nhà, phòng ngủ, phòng tắm,... sao cho hợp lý nếu bị sai.
+- Phần 2. Transforming Data - Chỉnh lại tên, giá nhà, phòng ngủ, phòng tắm,... sao cho hợp lý nếu bị sai.
 
-    Phần 3. Explore Data Analysis (Thống kê căn bản, remove outliers,...)
+- Phần 3. Explore Data Analysis (Thống kê căn bản, remove outliers,...)
 
-    Phần 4. PCA để giảm số chiều dữ liệu
+- Phần 4. PCA để giảm số chiều dữ liệu
 
-    Phần 5. Training và testing các regression model như linear, lasso, random forest, xgboost,...
+- Phần 5. Training và testing các regression model như linear, lasso, random forest, xgboost,...
 
 Chi tiết hơn về project này, các bạn xem trong file House_Price_Prediction.ipynb nhé.
 
