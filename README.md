@@ -22,4 +22,4 @@ Chi tiết hơn về project này, các bạn xem trong file House_Price_Predict
 
 Về data gốc bọn mình đã web scrapping từ trang web: [batdongsan.vn](https://batdongsan.vn/ban-nha-ho-chi-minh)
 
-Các bạn có thể tải file .ipynb về và chạy thử nhé.
+Các bạn có thể tải file .ipynb về và chạy thử.
