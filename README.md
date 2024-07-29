@@ -1,6 +1,6 @@
 # House Price Prediction in Ho Chi Minh city
 
-Đây là project cuối kỳ nhóm 3 người môn "Nhập môn Khoa học dữ liệu". Trong project này, bọn mình sẽ dự đoán giá nhà, căn hộ bằng các mô hình hồi quy (regression model) - Là mô hình phổ biến trong ngành khoa học dữ liệu.
+Đây là project cuối kỳ nhóm 3 người môn "Nhập môn Khoa học dữ liệu" - HCMUS. Trong project này, bọn mình sẽ dự đoán giá nhà, căn hộ bằng các mô hình hồi quy (regression model) - Là mô hình phổ biến trong ngành khoa học dữ liệu.
 
 Giá nhà, căn hộ luôn là chủ đề nóng trong BĐS, cho nên project này hi vọng sẽ cải thiện cho người bán, người mua và các nhà phân tích BĐS có góc nhìn phù hợp với giá nhà hiện tại và có thể chuẩn bị trong tương lai.
 
