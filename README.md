@@ -20,6 +20,6 @@ Project này chỉ lấy cụ thể nhà, căn hộ trong khu vực TP.HCM
 
 Chi tiết hơn về project này, các bạn xem trong file House_Price_Prediction.ipynb nhé. Ngôn ngữ lập trình được sử dụng là python.
 
-Về data gốc bọn mình đã web scrapping từ trang web: [batdongsan.vn](https://batdongsan.vn/ban-nha-ho-chi-minh)
+Về data gốc (dữ liệu thô) bọn mình đã web scrapping từ trang web: [batdongsan.vn](https://batdongsan.vn/ban-nha-ho-chi-minh)
 
 Các bạn có thể tải file .ipynb về và chạy thử.
