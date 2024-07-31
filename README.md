@@ -27,8 +27,11 @@ Về data gốc (dữ liệu thô) bọn mình đã web scrapping từ trang web
 
 Các bạn có thể tải file .ipynb về và chạy thử.
 
-## Tham khảo
+## Tư liệu tham khảo
 [Vietnam House Price Prediction by EllieDam](https://github.com/EllieDam/VietNam_HousePrice_prediction)
+
 [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
+
 [Regression model and Testing in Python](https://www.kdnuggets.com/2019/07/check-quality-regression-model-python.html)
+
 [Linear, Lasso, and Ridge Regression with scikit-learn](https://www.pluralsight.com/resources/blog/guides/linear-lasso-ridge-regression-scikit-learn)
